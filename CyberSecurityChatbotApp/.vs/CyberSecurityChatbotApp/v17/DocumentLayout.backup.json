@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211poep1\\cybersecuritychatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211poep1\\cybersecuritychatbotapp\\displaymedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|solutionrelative:displaymedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211poep1\\cybersecuritychatbotapp\\playsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|solutionrelative:playsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211poep1\\cybersecuritychatbotapp\\handlingusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|solutionrelative:handlingusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211poep1\\cybersecuritychatbotapp\\converttoaciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35C4375-2881-4D1C-A803-DAA849F5C233}|CyberSecurityChatbotApp.csproj|solutionrelative:converttoaciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HandlingUsers.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\HandlingUsers.cs",
+              "RelativeDocumentMoniker": "HandlingUsers.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\HandlingUsers.cs",
+              "RelativeToolTip": "HandlingUsers.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAArwHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:32:12.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvertToAciiArt.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\ConvertToAciiArt.cs",
+              "RelativeDocumentMoniker": "ConvertToAciiArt.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\ConvertToAciiArt.cs",
+              "RelativeToolTip": "ConvertToAciiArt.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:27:33.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayMedia.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\DisplayMedia.cs",
+              "RelativeDocumentMoniker": "DisplayMedia.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\DisplayMedia.cs",
+              "RelativeToolTip": "DisplayMedia.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:25:10.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaySounds.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\PlaySounds.cs",
+              "RelativeDocumentMoniker": "PlaySounds.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\PlaySounds.cs",
+              "RelativeToolTip": "PlaySounds.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:21:27.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POEp1\\CyberSecurityChatbotApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:30:32.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
